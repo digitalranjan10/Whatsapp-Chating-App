@@ -1,2 +1,2 @@
-# Whatsapp-Chating-App
+# Whatsapp-Chating-App  /Built On IITDM Jabalpur 2019 March- Zonal Winner its MY Frist Project in Python 
 We've made it through the basics of working with sockets, we're going to build a console-based chat app. Like WhatsApp.... 
